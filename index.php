@@ -8,6 +8,6 @@
     <title>Figma</title>
 </head>
 <body>
-    
+
 </body>
 </html>
